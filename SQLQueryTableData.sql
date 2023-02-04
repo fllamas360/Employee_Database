@@ -1,0 +1,16 @@
+INSERT into EmployeeDemographics Values
+(9101, 'Lupita', 'NyongO', 39, 'Nakia'),
+(9102, 'Tom', 'Holland', 26, 'Peter Parker/Spider-Man'),
+(9103, 'Mahershala', 'Ali', 48, 'Blade'),
+(9104, 'Scarlett', 'Johansson', 38, 'Natasha Romanoff/Black Widow'),
+(9105, 'Chris', 'Pratt', 43, 'Peter Quill/Star-Lord'),
+(9106, 'Brie', 'Larson', 33, 'Carol Danvers/Captain Marvel'),
+(9107, 'Dave', 'Bautista', 54 ,'Drax the Destroyer'),
+(9108, 'Zoe','Saldana', 44 , 'Gamora'),
+(9109, 'Robert', 'Downey Jr', 57, 'Tony Stark/Iron Man'),
+(9110, 'Gemma', 'Chan',40 , 'Doctor Minn-Erva & Sersi'),
+(9111, 'Chris','Evans',41 , 'Steve Rogers/Captain America'),
+(9112, 'Elizabeth', 'Olsen', 33, 'Wanda Maximoff/Scarlet Witch'),
+(9113, 'Chris', 'Hemsworth', 39, 'Thor'),
+(9114, 'Chadwick', 'Boseman', 44, 'TChalla/Black Panther'),
+(9115, 'Hayley', 'Atwell',40 ,'Margaret Carter/Agent Carter')
